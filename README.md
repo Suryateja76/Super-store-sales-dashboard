@@ -32,4 +32,4 @@ Helps optimize sales.
 Supports in developing strategies to increase the growth the store.
 
 6. Screenshots / Demos
-Dashboard preview:
+Dashboard preview:(https://github.com/Suryateja76/Super-store-sales-dashboard/blob/main/Store%20Sales%20Dashboard.png)
